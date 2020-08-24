@@ -1,6 +1,6 @@
 # FitnessTracker
 
-The Fitness Tracker application is a simple application developed in Angular 8 using Angular Material, Firebase authentication and also using Responsive UI to be used both in browser and Mobile.
+Developed an application to be compatible in mobile and browser in Angular 8 using Angular Material, Firebase authentication and also using Responsive UI to be used both in browser and Mobile.
 
 
 ## Further help
